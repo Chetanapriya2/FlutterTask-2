@@ -41,7 +41,7 @@ class Shortsscreen extends StatelessWidget {
             },
           ),
 
-          // Top Horizontal Icons
+    
           Positioned(
             top: 60,
             left: 20,
@@ -63,7 +63,7 @@ class Shortsscreen extends StatelessWidget {
             ),
           ),
 
-          // Right Side Icons
+     
           Positioned(
             right: 15,
             bottom: 120,
@@ -112,7 +112,7 @@ class Shortsscreen extends StatelessWidget {
             ),
           ),
 
-          // Bottom Content
+
           Positioned(
             bottom: 25,
             left: 15,
